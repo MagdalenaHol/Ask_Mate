@@ -2,7 +2,7 @@
 
 ## Story
 
-It is time to put newly acquired skills to use. This task ask was to implement a crowdsourced Q&A site, similar to Stack Overflow.
+It was time to put newly acquired skills to use. This task ask was to implement a crowdsourced Q&A site, similar to Stack Overflow.
 
 Started from prioritizing list of user stories (product backlog) as a agile development metodologies, ending with usable and appealing to users web application. The site is able to handle questions and answers. There is ability to register and login for users. Adding/editing/deleting comments and answers, uploading an image for a questions or answers, voting on answers and searching for an interesting thing by phrase. 
 
