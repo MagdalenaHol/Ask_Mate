@@ -2,32 +2,14 @@
 
 ## Story
 
-Last week you made great progress improving your web application.
-We need some more features to make it more usable and more appealing to users.
+It is time to put newly acquired skills to use. This task ask was to implement a crowdsourced Q&A site, similar to Stack Overflow.
 
-The users requested new features, such as the ability to register and login.
-There are a few other feature requests which you can find in the user stories.
+Started from prioritizing list of user stories (product backlog) as a agile development metodologies, ending with usable and appealing to users web application. The site is able to handle questions and answers. There is ability to register and login for users. Adding/editing/deleting comments and answers, uploading an image for a questions or answers, voting on answers and searching for an interesting thing by phrase. 
 
-The management wants you to separate the already working features from
-the upcoming ones, so your development team need to **start using branching
-workflow and open new branches for the features you start in this sprint**.
-Just like last week, the ownership is in your hands. There are no compulsory stories,
-but of course, management would prefer if all stories were implemented.
-So first, choose the stories, then ask a mentor to validate your choice.
+<hr>
+<br>
 
-Just like last week, you have a **prioritized list** of new user stories that you should
-add to the unfinished stories from last week on your product backlog. Try to
-estimate these new stories as well, and, based on the estimations, decide how many
-your team can finish until the demo. As the order is important, you choose
-from the beginning of the list as much as you can.
-
-## What are you going to learn?
-
-- Web routing and redirects
-- Gitflow workflow
-- Advanced SQL commands (`JOIN`, `GROUP BY`, and aggregate functions)
-- User authentication with sessions
-- Hashed passwords
-- HTML and the Jinja2 templating engine
-- Javascript basics DOM manipulation
-
+ <img width="1260" alt="Screenshot 2022-07-21 at 16 37 45" src="https://user-images.githubusercontent.com/89383083/180247227-a8c2ceb9-9103-4ccd-8767-ab282076bd5f.png">
+ <img width="1260" alt="Screenshot 2022-07-21 at 16 38 43" src="https://user-images.githubusercontent.com/89383083/180247260-cdf8b634-e1c4-4e0c-b210-3c04977166c6.png">
+<img width="1260" alt="Screenshot 2022-07-21 at 16 39 12" src="https://user-images.githubusercontent.com/89383083/180247310-5b3080ec-ecd5-48f9-9728-095a8c0ed8a8.png">
+  
